@@ -1,4 +1,4 @@
-{
+just{tokens"-
     "name":"JustSwap Default List",
     "tokens":[
         {
